@@ -7,6 +7,6 @@ spec:
     termination: edge
   to:
     kind: Service
-    name: express-buildah-app
+    name: myservice
     weight: 100
   wildcardPolicy: None
